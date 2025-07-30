@@ -1,6 +1,6 @@
 # 🚒 Sinaran Damkar - Aplikasi Sistem Pemadam Kebakaran
 
-**Sinaran Damkar** adalah aplikasi berbasis Java Swing yang dibuat untuk membantu pengelolaan laporan kebakaran, pengaturan regu pemadam, dan monitoring armada pemadam kebakaran. Proyek ini merupakan bagian dari UAS (Tugas Akhir Semester) dalam mata kuliah Pemrograman Lanjut.
+**Sinaran Damkar** adalah aplikasi berbasis Java Swing yang dibuat untuk membantu pengelolaan laporan kebakaran, pengaturan regu pemadam, dan monitoring armada pemadam kebakaran. Proyek ini merupakan bagian dari UAS (Tugas Akhir Semester) dalam mata kuliah Algoritma dan Pemrograman 2.
 
 ## 📌 Fitur Utama
 
@@ -63,4 +63,4 @@ Library flatlaf-demo-3.6.1.java
 1. Pastikan Java telah terinstal (Java JDK 8 atau lebih baru).
 2. Clone repository ini:
    ```bash
-   git clone 
+   git clone https://github.com/Adityabeckham/Project-UAS-GUI-JAVA.git
